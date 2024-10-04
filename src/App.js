@@ -6,7 +6,7 @@ function App() {
     <>
       <Navbar title="MyApp" aboutText = "About Us"/>
       {/* <Navbar /> */}
-      <div className="container">
+      <div className="container my-3">
       <TextForm heading="Enter text"/>
       </div>
     </>
